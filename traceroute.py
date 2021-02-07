@@ -1,10 +1,6 @@
-import os
-os.sys.path.append("c:\python38\lib\site-packages")
-os.sys.path.append("c:\\users\\hbeny\\appdata\\roaming\\python\\python38\\site-packages")
 import subprocess
 import requests
 import json
-import colorama
 
 print("""
  | \ | |    | |                    | |    |__   __|                               | |      

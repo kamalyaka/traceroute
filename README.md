@@ -9,9 +9,7 @@
 - ### requests
 - ### json
 ---
-| \ | |    | |                    | |    |__   __|                               | |      
-|  \| | ___| |___      _____  _ __| | __    | |_ __ __ _  ___ ___ _ __ ___  _   _| |_ ___ 
-| . ` |/ _ \ __\ \ /\ / / _ \| '__| |/ /    | | '__/ _` |/ __/ _ \ '__/ _ \| | | | __/ _ \
-| |\  |  __/ |_ \ V  V / (_) | |  |   <     | | | | (_| | (_|  __/ | | (_) | |_| | ||  __/
-|_| \_|\___|\__| \_/\_/ \___/|_|  |_|\_\    |_|_|  \__,_|\___\___|_|  \___/ \__,_|\__\___|
+## Showcase sample output field:
+``` IP: bud02s27-in-x0e.1e100.net, Country: Ireland, City: Dublin, Company: AS15169 Google LLC, Google Ireland Limited ```
+---
  ### made by kamalyaka 2021, i will also make it available on my site "kamalyaka Projects" along with my other scripts..

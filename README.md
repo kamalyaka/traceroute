@@ -4,7 +4,7 @@
 ### This is a simple python script that allows you to trace the route to an IP or domain simply by just entering it.
 ### It provides extra features compared to default shell commands like: Organization, City name of the IPs in the trace, also the country of origin where the traffic goes to.
 ---
-### Here are the requirements you need to install, import the following packages:
+### Here are the requirements you need to install, install the packages listed below with Python PIP and import them:
 - ### subprocess
 - ### requests
 - ### json

@@ -1,4 +1,4 @@
-# traceroute
+# Traceroute
 ## 🌐 Allows you to create a network traceroute!
 
 ### This is a simple python script that allows you to trace the route to an IP or domain simply by just entering it.
@@ -9,7 +9,7 @@
 - ### requests
 - ### json
 
-## Output syntax example:
+## Output example:
 ### ``` IP: bud02s27-in-x0e.1e100.net, Country: Ireland, City: Dublin, Company: AS15169 Google LLC, Google Ireland Limited ```
 
 ## Contributing
